@@ -1,2 +1,2 @@
 # TempleHack
-Ultimate way of hacking.
+Ultimate way of hack testing or hacking. TempleHack.
