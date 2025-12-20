@@ -1,0 +1,9 @@
+services:
+  hack.ui:
+    image: ${DOCKER_REGISTRY-}hackui
+    build:
+      context: .
+      dockerfile: Hack.Ui/Dockerfile
+    ports:
+      - "8080:8080"       
+      - "8081:8081"       

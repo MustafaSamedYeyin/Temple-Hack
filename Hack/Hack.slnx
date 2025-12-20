@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="Hack.Core/Hack.Core.csproj" />
+  <Project Path="Hack.Data/Hack.Data.csproj" />
+  <Project Path="Hack.Service/Hack.Service.csproj" />
+  <Project Path="Hack.Ui/Hack.Ui.csproj" />
+</Solution>
