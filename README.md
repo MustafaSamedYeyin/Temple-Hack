@@ -1,4 +1,4 @@
 # God's Hack Temple
-Penatration Tool.
+Penetration Tool.
 
 
